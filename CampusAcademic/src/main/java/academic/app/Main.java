@@ -33,6 +33,7 @@ public class Main {
                 System.out.println("3. Update Student Grade");
                 System.out.println("4. Cancel Enrollment");
                 System.out.println("5. Manage Lecturers");
+                System.out.println("6. Manage Courses");
                 System.out.println("0. Exit");
                 System.out.print("Choose menu: ");
 
@@ -120,6 +121,11 @@ public class Main {
                         
                         case "5": {
                         new LecturerMenu().run(scanner);
+                        break;
+                        }
+
+                        case "6": {
+                        new CourseMenu().run(scanner);
                         break;
                         }
 

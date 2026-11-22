@@ -1,11 +1,13 @@
-C:\Users\User\Downloads\Tugas---PBO-Dosen-main\CampusAcademic\src\main\java\academic\app\LecturerMenu.java
-C:\Users\User\Downloads\Tugas---PBO-Dosen-main\CampusAcademic\src\main\java\academic\app\Main.java
-C:\Users\User\Downloads\Tugas---PBO-Dosen-main\CampusAcademic\src\main\java\academic\app\StudentMenu.java
-C:\Users\User\Downloads\Tugas---PBO-Dosen-main\CampusAcademic\src\main\java\academic\dao\EnrollmentDAO.java
-C:\Users\User\Downloads\Tugas---PBO-Dosen-main\CampusAcademic\src\main\java\academic\dao\LecturerDAO.java
-C:\Users\User\Downloads\Tugas---PBO-Dosen-main\CampusAcademic\src\main\java\academic\dao\StudentDao.java
-C:\Users\User\Downloads\Tugas---PBO-Dosen-main\CampusAcademic\src\main\java\academic\db\DatabaseConnection.java
-C:\Users\User\Downloads\Tugas---PBO-Dosen-main\CampusAcademic\src\main\java\academic\model\Enrollment.java
-C:\Users\User\Downloads\Tugas---PBO-Dosen-main\CampusAcademic\src\main\java\academic\model\Lecturer.java
-C:\Users\User\Downloads\Tugas---PBO-Dosen-main\CampusAcademic\src\main\java\academic\model\Student.java
-C:\Users\User\Downloads\Tugas---PBO-Dosen-main\CampusAcademic\src\main\java\Student.java
+D:\Kuliah\SEM 3\PEMROGRAMAN BERORIENTASI OBJEK\java\Tugas---PBO-Dosen\CampusAcademic\src\main\java\academic\app\CourseMenu.java
+D:\Kuliah\SEM 3\PEMROGRAMAN BERORIENTASI OBJEK\java\Tugas---PBO-Dosen\CampusAcademic\src\main\java\academic\app\LecturerMenu.java
+D:\Kuliah\SEM 3\PEMROGRAMAN BERORIENTASI OBJEK\java\Tugas---PBO-Dosen\CampusAcademic\src\main\java\academic\app\Main.java
+D:\Kuliah\SEM 3\PEMROGRAMAN BERORIENTASI OBJEK\java\Tugas---PBO-Dosen\CampusAcademic\src\main\java\academic\app\StudentMenu.java
+D:\Kuliah\SEM 3\PEMROGRAMAN BERORIENTASI OBJEK\java\Tugas---PBO-Dosen\CampusAcademic\src\main\java\academic\dao\CourseDAO.java
+D:\Kuliah\SEM 3\PEMROGRAMAN BERORIENTASI OBJEK\java\Tugas---PBO-Dosen\CampusAcademic\src\main\java\academic\dao\EnrollmentDAO.java
+D:\Kuliah\SEM 3\PEMROGRAMAN BERORIENTASI OBJEK\java\Tugas---PBO-Dosen\CampusAcademic\src\main\java\academic\dao\LecturerDAO.java
+D:\Kuliah\SEM 3\PEMROGRAMAN BERORIENTASI OBJEK\java\Tugas---PBO-Dosen\CampusAcademic\src\main\java\academic\dao\StudentDao.java
+D:\Kuliah\SEM 3\PEMROGRAMAN BERORIENTASI OBJEK\java\Tugas---PBO-Dosen\CampusAcademic\src\main\java\academic\db\DatabaseConnection.java
+D:\Kuliah\SEM 3\PEMROGRAMAN BERORIENTASI OBJEK\java\Tugas---PBO-Dosen\CampusAcademic\src\main\java\academic\model\Course.java
+D:\Kuliah\SEM 3\PEMROGRAMAN BERORIENTASI OBJEK\java\Tugas---PBO-Dosen\CampusAcademic\src\main\java\academic\model\Enrollment.java
+D:\Kuliah\SEM 3\PEMROGRAMAN BERORIENTASI OBJEK\java\Tugas---PBO-Dosen\CampusAcademic\src\main\java\academic\model\Lecturer.java
+D:\Kuliah\SEM 3\PEMROGRAMAN BERORIENTASI OBJEK\java\Tugas---PBO-Dosen\CampusAcademic\src\main\java\academic\model\Student.java

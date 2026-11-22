@@ -10,7 +10,7 @@ public class DatabaseConnection {
             "jdbc:mariadb://localhost:3306/campus_academic";
 
     private static final String USER = "root";
-    private static final String PASSWORD = "sandi_baru";
+    private static final String PASSWORD = "";
 
     public static Connection getConnection()
             throws SQLException {

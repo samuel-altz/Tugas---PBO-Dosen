@@ -1,11 +1,13 @@
-academic\dao\EnrollmentDAO.class
+academic\app\CourseMenu.class
 academic\dao\LecturerDAO.class
 academic\app\LecturerMenu.class
+academic\dao\CourseDAO.class
 academic\dao\StudentDao.class
+academic\model\Course.class
+academic\model\Lecturer.class
+academic\dao\EnrollmentDAO.class
 academic\db\DatabaseConnection.class
 academic\model\Student.class
 academic\app\Main.class
 academic\app\StudentMenu.class
-academic\model\Lecturer.class
-Student.class
 academic\model\Enrollment.class

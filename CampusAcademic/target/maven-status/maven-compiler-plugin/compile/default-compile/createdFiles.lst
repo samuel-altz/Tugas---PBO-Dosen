@@ -1,0 +1,7 @@
+academic/dao/EnrollmentDAO.class
+academic/db/DatabaseConnection.class
+academic/model/Lecturer.class
+academic/dao/LecturerDAO.class
+academic/model/Enrollment.class
+academic/app/LecturerMenu.class
+academic/app/Main.class
